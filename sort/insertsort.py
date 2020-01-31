@@ -81,6 +81,33 @@ def quick_sort(arr, left, right):
     return arr
 
 
+# 归并排序
+# 稳定 n*logn 需要额外的O(n)空间
+def merge(left: list, right: list) -> list:
+    # 合并过程
+    i, j = 0, 0
+    result = []
+    while i < len(left) and j < len(right):
+        if left[i] <= right[j]:
+            result.append(left[i])
+            i += 1
+        else:
+            result.append(right[j])
+            j += 1
+    result.extend(left[i:])
+    result.extend(right[j:])
+    return result
+
+
+def merge_sort(lists: list) -> list:
+    if len(lists) <= 1:
+        return lists
+    mid = len(lists) / 2
+    left = merge_sort(lists[:mid])
+    right = merge_sort(lists[mid:])
+    return merge(left, right)
+
+
 
 if __name__ == '__main__':
     arr = [3, 4, 2, 14, 55,23,34,7]
