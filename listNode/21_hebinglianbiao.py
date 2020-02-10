@@ -32,7 +32,7 @@ class Solution:
                 l1 = l1.next
             newnode = newnode.next
         newnode.next = l1 if l1 is not None else l2
-        return newnode
+        return newnode.next
 
     def mergeTwoLists2(self, l1: ListNode, l2: ListNode) -> ListNode:
         # 递归

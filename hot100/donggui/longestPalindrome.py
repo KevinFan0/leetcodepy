@@ -1,30 +1,37 @@
-# 最长回文子串
+# 5. 最长回文子串
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         size = len(s)
         if size <= 1:
             return s
+        # 初始化一个二维表格记录状态
         dp = [[False for _ in range(size)] for _ in range(size)]
 
         maxLen, start = 1, 0
         for i in range(size):
+            # 初始化 单个字符一定是回文
             dp[i][i] = True
         for j in range(1, size):
+            # i和j的关系是i <= j ，因此，只需要填这张表的上半部分
             for i in range(0, j):
                 if s[i] == s[j]:
+                    # 表达式 [i + 1, j - 1] 不构成区间，即长度严格小于 2，即 j - 1 - (i + 1) + 1 < 2 ，整理得 j - i < 3
                     if j - i < 3:
                         dp[i][j] = True
                     else:
+                        # 状态转移方程  dp[i][j] = (s[i] == s[j]) and dp[i + 1][j - 1]
                         dp[i][j] = dp[i+1][j-1]
                 else:
                     dp[i][j] = False
+                # 只要一得到 dp[i][j] = true，就记录子串的长度和起始位置，没有必要截取，因为截取字符串也要消耗性能，记录此时的回文子串的“起始位置”和“回文长度”即可。
                 if dp[i][j]:
                     curLen = j - i + 1
                     if curLen > maxLen:
                         maxLen = curLen
                         start = i
         return s[start: start + maxLen]
+
 
     def longestPalindrome2(self, s: str) -> str:
         # 暴力匹配
@@ -49,6 +56,7 @@ class Solution:
             left += 1
             right += 1
         return True
+
 
 def stringToString(input):
     return input[1:-1]

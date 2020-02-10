@@ -69,6 +69,7 @@ class Solution:
         # 先判空
         ret = -1
         current, total = 0, 0
+        stationindex = 0
         if len(gas) == 0 or len(cost) == 0:
             return ret
         # 一个for循环找到合适的出发车站

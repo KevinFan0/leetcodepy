@@ -1,5 +1,5 @@
 # 94. 二叉树的中序遍历
-# 给定一个二叉树，返回它的中序 遍历。
+# 给定一个二叉树，返回它的中序遍历。
 
 import json
 
@@ -53,7 +53,6 @@ class Solution:
         stack = [(WHITE, root)]
         while stack:
             color, node = stack.pop()
-            print(node)
             if node is None:
                 continue
             if color == WHITE:
