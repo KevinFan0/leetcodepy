@@ -23,6 +23,20 @@ class Solution:
                 return [dct[target - n], i]
             dct[n] = i
 
+    def twoSum2(self, nums: list, target: int) -> list:
+        low, high = 0, len(nums) - 1
+        # for i in  range(len(nums)):
+        while low < high:
+            sum = nums[low] + nums[high]
+            if sum == target:
+                return [low, high]
+            elif sum < target:
+                low += 1
+            elif sum > target:
+                high -= 1
+        return [-1, -1]
+
+
 
 def stringToIntegerList(input):
     return json.loads(input)
@@ -49,7 +63,7 @@ def main():
             line = next(lines)
             target = int(line)
 
-            ret = Solution().twoSum(nums, target)
+            ret = Solution().twoSum2(nums, target)
 
             out = integerListToString(ret)
             print(out)

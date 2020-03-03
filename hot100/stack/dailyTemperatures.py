@@ -15,6 +15,18 @@ class Solution:
         return res
 
 
+    def dailyTemperatures2(self, T: list) -> list:
+        # 单调栈解法
+        if len(T) == 0:
+            return []
+        stack, res = [], [0] * len(T)
+        for i in range(len(T)-1, -1, -1):
+            while stack and T[stack[-1]] <= T[i]:
+                stack.pop()
+            res[i] = stack[-1] - i if stack else 0
+            stack.append(i)
+        return res
+
 
 def stringToIntegerList(input):
     return json.loads(input)

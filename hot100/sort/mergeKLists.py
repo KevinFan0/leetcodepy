@@ -32,7 +32,6 @@ class Solution:
         res = lists[0]
         for i in range(1, len(lists)):
             res = self.mergeTwoLists(res, lists[i])
-
         return res
 
     # 暴力法，将所有节点放到一个list然后进行排序

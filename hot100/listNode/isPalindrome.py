@@ -24,12 +24,14 @@ class Solution:
             return True
         # 1. 找到前半部分链表的尾节点
         fast, slow = head, head
-        while fast.next is not None and fast.next.next is not None:
+        while fast is not None and fast.next is not None:
             fast = fast.next.next
+            slow = slow.next
+        if fast:
             slow = slow.next
         first_half_end = slow
         # 2. 反转后半部分的链表
-        second_half_start = self.reverse_list(first_half_end.next)
+        second_half_start = self.reverse_list(first_half_end)
         # 3. 比较两个部分的值，判断是否为回文
         result = True
         first_position = head

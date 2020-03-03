@@ -35,8 +35,7 @@ class Solution:
             return 1
         first, second = 1, 2
         for i in range(3, n+1):
-            third = first + second
-            first, second = second, third
+            first, second = second, first + second
         return second
 
 

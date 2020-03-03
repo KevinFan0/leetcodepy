@@ -2,47 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c917dd6e-f164-4f5c-8a77-5a68b65fc66e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/stack/expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/stack/minStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/stack/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/string/kmp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dongGui/70_pailouti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/215_findKthLargest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/347_topKFrequent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/703_topK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/donggui/maxSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/listNode/deleteDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/sort/mergeKLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/sort/sortColors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/stack/dailyTemperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/stack/decodeString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toutiao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toutiao/joseph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toutiao/singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toutiao/treeMaxMaxDistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toutiao/zhuzirain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/wrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcodepy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcodepy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1011_shipWithinDays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_removeDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/355_twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/80_removeDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/855_seat&amp;leave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/860_lemonadeChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/875_minEatingSpeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/41_firstMissingPositive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/448_findDisappearedNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/stack/225_queue&amp;stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/stack/232_stack2queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/stack/239_maxSlidingWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/1143_longestCommonSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/123_maxProfit3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/188_maxProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/213_rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/238_productExceptSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/309_maxProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/322_coinChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/337_rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/416_canPartition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/516_longestPalindromeSubseq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/673_findNumberOfLIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/674_findLengthOfLCIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/713_numSubarrayProductLessThanK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/714_maxProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/72_minDistance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/887_superEggDrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/maxProfit2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/152_maxProduct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/198_rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/300_lengthOfLIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/647_countSubstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/maxProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/minPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/uniquePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/donggui/uniquePathsWithObstacles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/listNode/25_reverseKGroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/tree/617_mergeTrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listNode/382_getRandom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listNode/398_pick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listNode/92_reverseBetween.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/372_superPow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi/isPrime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/riddle/292_canWinNim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toutiao/lru.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/105_buildTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_duichengerchashu.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/101_duichengerchashu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/104_erchashudezuidashendu.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/104_erchashudezuidashendu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/134_gas_station.py" beforeDir="false" afterPath="$PROJECT_DIR$/134_gas_station.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_hebinglianbiao.py" beforeDir="false" afterPath="$PROJECT_DIR$/listNode/21_hebinglianbiao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_intReverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_intReverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/83_lianbiaoshanchuchongfu.py" beforeDir="false" afterPath="$PROJECT_DIR$/listNode/83_lianbiaoshanchuchongfu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/935_erchasousuoshufanweizhihe.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/938_erchasousuoshufanweizhihe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/detectCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/detectCycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/getIntersectionNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/getIntersectionNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/hasCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/hasCycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/isPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/reverseList.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/reverseList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/sortList.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/sortList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/lianbiao/twonumbersum.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/twonumbersum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/longestPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/donggui/longestPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/removeNthFromEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/removeNthFromEnd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/stack/inorderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/stack/inorderTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/134_gas_station.py" beforeDir="false" afterPath="$PROJECT_DIR$/dongGui/134_gas_station.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_twosum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dongGui/70_pailouti.py" beforeDir="false" afterPath="$PROJECT_DIR$/dongGui/70_pailouti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/donggui/longestPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/donggui/longestPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/listNode/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/listNode/isPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/sort/mergeKLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/sort/mergeKLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/stack/dailyTemperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/stack/dailyTemperatures.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,45 +70,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="215_findKthLargest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heap/215_findKthLargest.py">
+      <file leaf-file-name="448_findDisappearedNumbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/448_findDisappearedNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-526" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="92_reverseBetween.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listNode/92_reverseBetween.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longestPalindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hot100/donggui/longestPalindrome.py">
+      <file leaf-file-name="398_pick.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listNode/398_pick.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="382_getRandom.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listNode/382_getRandom.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="isPalindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hot100/listNode/isPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="-545" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="232_stack2queue.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastruct/stack/232_stack2queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhuzirain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toutiao/zhuzirain.py">
+      <file leaf-file-name="26_removeDuplicates.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26_removeDuplicates.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="127" selection-start-line="127" selection-end-line="128" selection-end-column="20" />
-              <folding>
-                <element signature="e#217#228#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-705" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kmp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datastruct/string/kmp.py">
+      <file leaf-file-name="21_hebinglianbiao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
+            <state relative-caret-position="-444" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="104_erchashudezuidashendu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/104_erchashudezuidashendu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-202" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="938_erchasousuoshufanweizhihe.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/938_erchasousuoshufanweizhihe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-332" />
           </provider>
         </entry>
       </file>
@@ -107,7 +152,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>low</find>
+      <find>mianshi</find>
+      <find>countSubstrings</find>
+      <find>reverseK</find>
+      <find>isPalindrome</find>
+      <find>super</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/hea</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,52 +168,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/hasCycle.py" />
-        <option value="$PROJECT_DIR$/hot100/detectCycle.py" />
-        <option value="$PROJECT_DIR$/hot100/getIntersectionNode.py" />
-        <option value="$PROJECT_DIR$/hot100/sortList.py" />
-        <option value="$PROJECT_DIR$/sort/insertsort.py" />
-        <option value="$PROJECT_DIR$/hot100/lianbiao/sortList.py" />
-        <option value="$PROJECT_DIR$/hot100/lianbiao/aaa.py" />
-        <option value="$PROJECT_DIR$/hot100/lianbiao/reverseList.py" />
-        <option value="$PROJECT_DIR$/hot100/lianbiao/isPalindrome.py" />
-        <option value="$PROJECT_DIR$/hot100/stack/isValid.py" />
-        <option value="$PROJECT_DIR$/hot100/stack/dailyTemperatures.py" />
-        <option value="$PROJECT_DIR$/datastruct/stack/stack.py" />
-        <option value="$PROJECT_DIR$/datastruct/stack/minStack.py" />
-        <option value="$PROJECT_DIR$/hot100/lianbiao/deleteDuplicates.py" />
-        <option value="$PROJECT_DIR$/toutiao/treeMaxMaxDistance.py" />
-        <option value="$PROJECT_DIR$/215_NoKsortarray.py" />
-        <option value="$PROJECT_DIR$/215_findKthLargest.py" />
-        <option value="$PROJECT_DIR$/703_topK.py" />
-        <option value="$PROJECT_DIR$/347_topKFrequent.py" />
-        <option value="$PROJECT_DIR$/toutiao/singleton.py" />
-        <option value="$PROJECT_DIR$/heap/215_findKthLargest.py" />
-        <option value="$PROJECT_DIR$/70_pailouti.py" />
-        <option value="$PROJECT_DIR$/hot100/donggui/maxSubArray.py" />
-        <option value="$PROJECT_DIR$/datastruct/stack/expression.py" />
-        <option value="$PROJECT_DIR$/7_intReverse.py" />
-        <option value="$PROJECT_DIR$/hot100/listNode/deleteDuplicates.py" />
-        <option value="$PROJECT_DIR$/hot100/stack/inorderTraversal.py" />
-        <option value="$PROJECT_DIR$/hot100/stack/decodeString.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/minPathSum.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/uniquePathsWithObstacles.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/152_maxProduct.py" />
+        <option value="$PROJECT_DIR$/dongGui/238_productExceptSelf.py" />
+        <option value="$PROJECT_DIR$/dongGui/713_numSubarrayProductLessThanK.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/countSubstrings.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/647_countSubstrings.py" />
+        <option value="$PROJECT_DIR$/dongGui/516_longestPalindromeSubseq.py" />
+        <option value="$PROJECT_DIR$/dongGui/l1143_ongestCommonSubsequence.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/300_lengthOfLIS.py" />
+        <option value="$PROJECT_DIR$/dongGui/674_findLengthOfLCIS.py" />
+        <option value="$PROJECT_DIR$/dongGui/416_canPartition.py" />
+        <option value="$PROJECT_DIR$/dongGui/860_lemonadeChange.py" />
+        <option value="$PROJECT_DIR$/860_lemonadeChange.py" />
+        <option value="$PROJECT_DIR$/toutiao/lru.py" />
+        <option value="$PROJECT_DIR$/mianshi.py" />
+        <option value="$PROJECT_DIR$/mianshi/isPrime.py" />
+        <option value="$PROJECT_DIR$/875_minEatingSpeed.py" />
+        <option value="$PROJECT_DIR$/1011_shipWithinDays.py" />
+        <option value="$PROJECT_DIR$/dongGui/72_minDistance.py" />
+        <option value="$PROJECT_DIR$/26_removeDuplicates.py" />
+        <option value="$PROJECT_DIR$/80_removeDuplicates.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/25_reverseKGroup.py" />
+        <option value="$PROJECT_DIR$/array/448_findDisappearedNumbers.py" />
+        <option value="$PROJECT_DIR$/array/41_firstMissingPositive.py" />
+        <option value="$PROJECT_DIR$/listNode/382_getRandom.py" />
+        <option value="$PROJECT_DIR$/listNode/398_pick.py" />
+        <option value="$PROJECT_DIR$/riddle/292_canWinNim.py" />
+        <option value="$PROJECT_DIR$/855_seat&amp;leave.py" />
+        <option value="$PROJECT_DIR$/math/372_superPow.py" />
+        <option value="$PROJECT_DIR$/hot100/listNode/isPalindrome.py" />
         <option value="$PROJECT_DIR$/hot100/donggui/longestPalindrome.py" />
-        <option value="$PROJECT_DIR$/toutiao/joseph.py" />
-        <option value="$PROJECT_DIR$/134_gas_station.py" />
-        <option value="$PROJECT_DIR$/hot100/listNode/aaa.py" />
-        <option value="$PROJECT_DIR$/hot100/sort/sortColors.py" />
-        <option value="$PROJECT_DIR$/listNode/21_hebinglianbiao.py" />
-        <option value="$PROJECT_DIR$/hot100/sort/mergeKLists.py" />
-        <option value="$PROJECT_DIR$/other/kmp.py" />
-        <option value="$PROJECT_DIR$/__init.py" />
-        <option value="$PROJECT_DIR$/utils/wrap.py" />
-        <option value="$PROJECT_DIR$/toutiao/zhuzirain.py" />
+        <option value="$PROJECT_DIR$/hot100/donggui/uniquePaths.py" />
+        <option value="$PROJECT_DIR$/dongGui/309_maxProfit.py" />
+        <option value="$PROJECT_DIR$/datastruct/string/kmp.py" />
+        <option value="$PROJECT_DIR$/dongGui/70_pailouti.py" />
+        <option value="$PROJECT_DIR$/dongGui/322_coinChange.py" />
+        <option value="$PROJECT_DIR$/1_twosum.py" />
+        <option value="$PROJECT_DIR$/dongGui/673_findNumberOfLIS.py" />
+        <option value="$PROJECT_DIR$/dongGui/887_superEggDrop.py" />
+        <option value="$PROJECT_DIR$/hot100/tree/617_mergeTrees.py" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/bb.py" />
+        <option value="$PROJECT_DIR$/hw_test.py" />
+        <option value="$PROJECT_DIR$/datastruct/stack/225_queue&amp;stack.py" />
+        <option value="$PROJECT_DIR$/datastruct/stack/stack2queue.py" />
+        <option value="$PROJECT_DIR$/tree/105_buildTree.py" />
+        <option value="$PROJECT_DIR$/hot100/stack/dailyTemperatures.py" />
+        <option value="$PROJECT_DIR$/datastruct/stack/239_maxSlidingWindow.py" />
+        <option value="$PROJECT_DIR$/355_twitter.py" />
+        <option value="$PROJECT_DIR$/listNode/92_reverseBetween.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="157" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="750" />
     <option name="y" value="23" />
-    <option name="width" value="1523" />
+    <option name="width" value="930" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectId" id="1WdnWbuwc8vfqPoCm0apC2jeMil" />
@@ -179,12 +244,67 @@
             <path>
               <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
               <item name="datastruct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="hot100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="hot100" type="462c0819:PsiDirectoryNode" />
+              <item name="donggui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="hot100" type="462c0819:PsiDirectoryNode" />
+              <item name="listNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="hot100" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
               <item name="toutiao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodepy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepy" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,16 +319,16 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hot100/listNode" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dongGui" />
+      <recent name="$PROJECT_DIR$/datastruct/string" />
+      <recent name="$PROJECT_DIR$/hot100/lianbiao" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/utils" />
       <recent name="$PROJECT_DIR$/toutiao" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/datastruct/string" />
-      <recent name="$PROJECT_DIR$/hot100/lianbiao" />
-      <recent name="$PROJECT_DIR$/hot100/donggui" />
-      <recent name="$PROJECT_DIR$/heap" />
-      <recent name="$PROJECT_DIR$/tree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,8 +343,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kmp">
-    <configuration name="decodeString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.92_reverseBetween">
+    <configuration name="105_buildTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,17 +352,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/stack/decodeString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/105_buildTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="joseph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="239_maxSlidingWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,17 +370,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toutiao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastruct/stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toutiao/joseph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastruct/stack/239_maxSlidingWindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="kmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="92_reverseBetween" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,17 +388,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/other" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listNode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastruct/string/kmp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listNode/92_reverseBetween.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sortColors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,17 +406,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/sort/sortColors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="zhuzirain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hw_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,30 +424,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toutiao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toutiao/zhuzirain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.decodeString" />
-      <item itemvalue="Python.joseph" />
-      <item itemvalue="Python.sortColors" />
-      <item itemvalue="Python.kmp" />
-      <item itemvalue="Python.zhuzirain" />
+      <item itemvalue="Python.hw_test" />
+      <item itemvalue="Python.bb" />
+      <item itemvalue="Python.105_buildTree" />
+      <item itemvalue="Python.239_maxSlidingWindow" />
+      <item itemvalue="Python.92_reverseBetween" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kmp" />
-        <item itemvalue="Python.zhuzirain" />
-        <item itemvalue="Python.sortColors" />
-        <item itemvalue="Python.joseph" />
-        <item itemvalue="Python.decodeString" />
+        <item itemvalue="Python.92_reverseBetween" />
+        <item itemvalue="Python.239_maxSlidingWindow" />
+        <item itemvalue="Python.105_buildTree" />
+        <item itemvalue="Python.hw_test" />
+        <item itemvalue="Python.bb" />
       </list>
     </recent_temporary>
   </component>
@@ -356,20 +476,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15732369" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12778783" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22051282" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32903227" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32903227" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22258064" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32820514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,7 +525,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -416,353 +536,301 @@
     <SUITE FILE_PATH="coverage/leetcodepy$intReverse.coverage" NAME="intReverse Coverage Results" MODIFIED="1579590626552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
+    <entry file="file://$PROJECT_DIR$/855_seat&amp;leave.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="-750">
+          <caret line="7" column="99" lean-forward="true" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/134_gas_station.py">
+    <entry file="file://$PROJECT_DIR$/875_minEatingSpeed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1975">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="-955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1011_shipWithinDays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongGui/72_minDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_twosum.py">
+    <entry file="file://$PROJECT_DIR$/dongGui/134_gas_station.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="542">
+          <caret line="71" column="20" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
+    <entry file="file://$PROJECT_DIR$/dongGui/238_productExceptSelf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="23" />
+        <state relative-caret-position="700">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_twosum.py">
+    <entry file="file://$PROJECT_DIR$/dongGui/516_longestPalindromeSubseq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="-51">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
+    <entry file="file://$PROJECT_DIR$/dongGui/887_superEggDrop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/lianbiao/aaa.py" />
-    <entry file="file://$PROJECT_DIR$/datastruct/stack/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/stack/minStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/stack/expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1434">
-          <caret line="62" column="14" selection-start-line="46" selection-end-line="62" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dongGui/70_pailouti.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heap/347_topKFrequent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heap/703_topK.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/donggui/maxSubArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/deleteDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/getIntersectionNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/isPalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/detectCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/hasCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/removeNthFromEnd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/twonumbersum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#37#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/stack/dailyTemperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/stack/decodeString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/stack/inorderTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/stack/isValid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listNode/83_lianbiaoshanchuchongfu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/joseph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/treeMaxMaxDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/101_duichengerchashu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/104_erchashudezuidashendu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/938_erchasousuoshufanweizhihe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_intReverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_twosum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/134_gas_station.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/aaa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/insertsort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-847">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/lengthOfLongestSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/donggui/longestPalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="858">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/heap/215_findKthLargest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-532" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/listNode/reverseList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/singleton.py">
+    <entry file="file://$PROJECT_DIR$/hot100/stack/decodeString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hot100/sort/sortColors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="-345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/sort/mergeKLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hot100/listNode/sortList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="83" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="83" />
-        </state>
+        <state relative-caret-position="-1697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
+    <entry file="file://$PROJECT_DIR$/dongGui/1143_longestCommonSubsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/sort/mergeKLists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="97" column="21" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="97" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/wrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#15#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/zhuzirain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="127" selection-start-line="127" selection-end-line="128" selection-end-column="20" />
-          <folding>
-            <element signature="e#217#228#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/string/kmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="950">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/donggui/647_countSubstrings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongGui/416_canPartition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongGui/674_findLengthOfLCIS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toutiao/treeMaxMaxDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dongGui/673_findNumberOfLIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/tree/617_mergeTrees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toutiao/joseph.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/stack/225_queue&amp;stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="27" column="11" lean-forward="true" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/105_buildTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="38" column="66" lean-forward="true" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/stack/dailyTemperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/stack/239_maxSlidingWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding>
+            <element signature="e#536#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/listNode/reverseList.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/355_twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="119" column="42" selection-start-line="35" selection-end-line="119" selection-end-column="42" />
+          <folding>
+            <element signature="e#778#789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort/insertsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/donggui/198_rob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-747" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toutiao/lru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1634" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mianshi/isPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/372_superPow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/donggui/longestPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1251" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/listNode/25_reverseKGroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/41_firstMissingPositive.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/448_findDisappearedNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listNode/92_reverseBetween.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listNode/398_pick.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listNode/382_getRandom.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/listNode/isPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/stack/232_stack2queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_removeDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/stack/inorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/101_duichengerchashu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listNode/21_hebinglianbiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-444" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/104_erchashudezuidashendu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/938_erchasousuoshufanweizhihe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332" />
       </provider>
     </entry>
   </component>
