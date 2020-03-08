@@ -27,13 +27,17 @@ class MyStack:
         Push element x onto stack.
         """
         self.data.append(x)
+        n = len(self.data)
+        while n > 1:
+            self.data.append(self.data.pop(0))
+            n -= 1
 
     def pop(self) -> int:
         """
         Removes the element on top of the stack and returns that element.
         """
         if self.data:
-            return self.data.pop()
+            return self.data.pop(0)
 
 
     def top(self) -> int:
