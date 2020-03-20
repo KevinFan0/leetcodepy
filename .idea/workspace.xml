@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c917dd6e-f164-4f5c-8a77-5a68b65fc66e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hot100/donggui/139_wordBreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/donggui/221_maximalSquare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/donggui/85_maximalRectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcodepy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcodepy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heap/getLeastNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanxin/45_jump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanxin/55_canJump.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dongGui/714_maxProfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/dongGui/714_maxProfit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heap/703_topK.py" beforeDir="false" afterPath="$PROJECT_DIR$/heap/703_topK.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
   <component name="ProjectId" id="1WdnWbuwc8vfqPoCm0apC2jeMil" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/work/code/ppd/sales_message" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.139_wordBreak">
+  <component name="RunManager" selected="Python.getLeastNumbers">
     <configuration name="139_wordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="279_numSquares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="45_jump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/donggui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tanxin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/donggui/279_numSquares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tanxin/45_jump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="338_countBits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="55_canJump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/donggui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tanxin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/donggui/338_countBits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tanxin/55_canJump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="494_findTargetSumWays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getLeastNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/donggui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/donggui/494_findTargetSumWays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heap/getLeastNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.494_findTargetSumWays" />
-      <item itemvalue="Python.279_numSquares" />
-      <item itemvalue="Python.338_countBits" />
       <item itemvalue="Python.maxProfit" />
       <item itemvalue="Python.139_wordBreak" />
+      <item itemvalue="Python.55_canJump" />
+      <item itemvalue="Python.45_jump" />
+      <item itemvalue="Python.getLeastNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getLeastNumbers" />
+        <item itemvalue="Python.45_jump" />
+        <item itemvalue="Python.55_canJump" />
         <item itemvalue="Python.139_wordBreak" />
         <item itemvalue="Python.maxProfit" />
-        <item itemvalue="Python.338_countBits" />
-        <item itemvalue="Python.279_numSquares" />
-        <item itemvalue="Python.494_findTargetSumWays" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +208,10 @@
       <updated>1577975494068</updated>
       <workItem from="1579488374292" duration="15065000" />
       <workItem from="1579513980827" duration="5750000" />
-      <workItem from="1583722456543" duration="10869000" />
+      <workItem from="1583722456543" duration="11580000" />
+      <workItem from="1584501342675" duration="2064000" />
+      <workItem from="1584511374525" duration="17000" />
+      <workItem from="1584618573625" duration="4411000" />
     </task>
     <servers />
   </component>
@@ -241,11 +242,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcodepy$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1579501746565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$getLeastNumbers.coverage" NAME="getLeastNumbers Coverage Results" MODIFIED="1584672003682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heap" />
     <SUITE FILE_PATH="coverage/leetcodepy$longestPalindrome.coverage" NAME="longestPalindrome Coverage Results" MODIFIED="1579509917824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/leetcodepy$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1583732703233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
     <SUITE FILE_PATH="coverage/leetcodepy$139_wordBreak.coverage" NAME="139_wordBreak Coverage Results" MODIFIED="1583741931734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
     <SUITE FILE_PATH="coverage/leetcodepy$twonumbersum.coverage" NAME="twonumbersum Coverage Results" MODIFIED="1579500137908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$45_jump.coverage" NAME="45_jump Coverage Results" MODIFIED="1584502788483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
     <SUITE FILE_PATH="coverage/leetcodepy$removeNthFromEnd.coverage" NAME="removeNthFromEnd Coverage Results" MODIFIED="1579591865567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/leetcodepy$intReverse.coverage" NAME="intReverse Coverage Results" MODIFIED="1579590626552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$55_canJump.coverage" NAME="55_canJump Coverage Results" MODIFIED="1584501669538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
   </component>
 </project>

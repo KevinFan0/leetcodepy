@@ -14,7 +14,7 @@ class KthLargest:
         return self.nums[self.k-1]
     
     # 堆方法实现
-    def add(self, val: int) -> int:
+    def add2(self, val: int) -> int:
         self.nums.append(val)
         return heapq.nlargest(self.k, self.nums)[-1]
 k=3
