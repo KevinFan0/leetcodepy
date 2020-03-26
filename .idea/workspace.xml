@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c917dd6e-f164-4f5c-8a77-5a68b65fc66e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/heap/getLeastNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tanxin/45_jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tanxin/55_canJump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/0-1beibao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dongGui/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/892_surfaceArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/999_numRookCaptures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/112_hasPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/asyncdb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/703_topK.py" beforeDir="false" afterPath="$PROJECT_DIR$/heap/703_topK.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.getLeastNumbers">
-    <configuration name="139_wordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.999_numRookCaptures">
+    <configuration name="0-1beibao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/donggui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dongGui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/donggui/139_wordBreak.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dongGui/0-1beibao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="45_jump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="112_hasPathSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tanxin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tanxin/45_jump.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/112_hasPathSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="55_canJump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="892_surfaceArea" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tanxin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tanxin/55_canJump.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math/892_surfaceArea.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getLeastNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="999_numRookCaptures" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heap/getLeastNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math/999_numRookCaptures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxProfit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="message" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +167,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100/donggui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dongGui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/donggui/maxProfit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dongGui/message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,19 +182,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.maxProfit" />
-      <item itemvalue="Python.139_wordBreak" />
-      <item itemvalue="Python.55_canJump" />
-      <item itemvalue="Python.45_jump" />
-      <item itemvalue="Python.getLeastNumbers" />
+      <item itemvalue="Python.0-1beibao" />
+      <item itemvalue="Python.message" />
+      <item itemvalue="Python.112_hasPathSum" />
+      <item itemvalue="Python.892_surfaceArea" />
+      <item itemvalue="Python.999_numRookCaptures" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getLeastNumbers" />
-        <item itemvalue="Python.45_jump" />
-        <item itemvalue="Python.55_canJump" />
-        <item itemvalue="Python.139_wordBreak" />
-        <item itemvalue="Python.maxProfit" />
+        <item itemvalue="Python.999_numRookCaptures" />
+        <item itemvalue="Python.892_surfaceArea" />
+        <item itemvalue="Python.112_hasPathSum" />
+        <item itemvalue="Python.message" />
+        <item itemvalue="Python.0-1beibao" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,12 @@
       <workItem from="1583722456543" duration="11580000" />
       <workItem from="1584501342675" duration="2064000" />
       <workItem from="1584511374525" duration="17000" />
-      <workItem from="1584618573625" duration="4411000" />
+      <workItem from="1584618573625" duration="4519000" />
+      <workItem from="1584931555193" duration="2646000" />
+      <workItem from="1585028828788" duration="850000" />
+      <workItem from="1585036338763" duration="21000" />
+      <workItem from="1585048780179" duration="7499000" />
+      <workItem from="1585190353466" duration="4479000" />
     </task>
     <servers />
   </component>
@@ -241,15 +248,20 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcodepy$139_wordBreak.coverage" NAME="139_wordBreak Coverage Results" MODIFIED="1583741931734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
+    <SUITE FILE_PATH="coverage/leetcodepy$message.coverage" NAME="message Coverage Results" MODIFIED="1585029205792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dongGui" />
+    <SUITE FILE_PATH="coverage/leetcodepy$twonumbersum.coverage" NAME="twonumbersum Coverage Results" MODIFIED="1579500137908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$45_jump.coverage" NAME="45_jump Coverage Results" MODIFIED="1584502788483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
+    <SUITE FILE_PATH="coverage/leetcodepy$0_1beibao.coverage" NAME="0-1beibao Coverage Results" MODIFIED="1584934313280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dongGui" />
+    <SUITE FILE_PATH="coverage/leetcodepy$removeNthFromEnd.coverage" NAME="removeNthFromEnd Coverage Results" MODIFIED="1579591865567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$55_canJump.coverage" NAME="55_canJump Coverage Results" MODIFIED="1584501669538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
     <SUITE FILE_PATH="coverage/leetcodepy$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1579501746565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/leetcodepy$getLeastNumbers.coverage" NAME="getLeastNumbers Coverage Results" MODIFIED="1584672003682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heap" />
     <SUITE FILE_PATH="coverage/leetcodepy$longestPalindrome.coverage" NAME="longestPalindrome Coverage Results" MODIFIED="1579509917824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/leetcodepy$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1583732703233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$139_wordBreak.coverage" NAME="139_wordBreak Coverage Results" MODIFIED="1583741931734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$twonumbersum.coverage" NAME="twonumbersum Coverage Results" MODIFIED="1579500137908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$45_jump.coverage" NAME="45_jump Coverage Results" MODIFIED="1584502788483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
-    <SUITE FILE_PATH="coverage/leetcodepy$removeNthFromEnd.coverage" NAME="removeNthFromEnd Coverage Results" MODIFIED="1579591865567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/leetcodepy$112_hasPathSum.coverage" NAME="112_hasPathSum Coverage Results" MODIFIED="1585052596328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
     <SUITE FILE_PATH="coverage/leetcodepy$intReverse.coverage" NAME="intReverse Coverage Results" MODIFIED="1579590626552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$55_canJump.coverage" NAME="55_canJump Coverage Results" MODIFIED="1584501669538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
+    <SUITE FILE_PATH="coverage/leetcodepy$892_surfaceArea.coverage" NAME="892_surfaceArea Coverage Results" MODIFIED="1585106542450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
+    <SUITE FILE_PATH="coverage/leetcodepy$999_numRookCaptures.coverage" NAME="999_numRookCaptures Coverage Results" MODIFIED="1585205137978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
   </component>
 </project>
