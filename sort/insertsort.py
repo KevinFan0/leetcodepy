@@ -17,20 +17,15 @@ def insert_sort(arr):
 def shell_sort(arr):
     count = len(arr)
     step = 2
-    group = count / step
+    group = count // step
     while group > 0:
-        for i in range(group):
-            j = i + group
-            while j < count:
-                k = j - group
-                key = arr[j]
-                while k >= 0:
-                    if arr[k] > key:
-                        arr[k+group] = arr[k]
-                        arr[k] = key
-                    k -= group
-                j += group
-        group /= step
+        for i in range(group, count):
+            for j in range(i, 0, -group):
+                if arr[j] < arr[j-group]:
+                    arr[j], arr[j-group] = arr[j-group], arr[j]
+                else:
+                    break
+        group //= step
     return arr
 
 
@@ -111,4 +106,4 @@ def merge_sort(lists: list) -> list:
 
 if __name__ == '__main__':
     arr = [3, 4, 2, 14, 55,23,34,7]
-    print(select_sort2(arr))
+    print(shell_sort(arr))
