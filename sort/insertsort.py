@@ -103,7 +103,11 @@ def merge_sort(lists: list) -> list:
     return merge(left, right)
 
 
+# 归并排序2
+def merge2(arr, lo, mid, hi):
+    i, j = lo, mid+1
+
 
 if __name__ == '__main__':
     arr = [3, 4, 2, 14, 55,23,34,7]
-    print(shell_sort(arr))
+    print(merge_sort(arr))

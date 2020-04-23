@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c917dd6e-f164-4f5c-8a77-5a68b65fc66e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/22_generateParenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/string/151_reverseWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movingCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotate.py" afterDir="false" />
+    <list default="true" id="c5332ffb-e956-4a26-8bd8-b242f32495ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/twoptr/1248_numberOfSubarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoptr/199_rightSideView.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcodepy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcodepy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/insertsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/insertsort.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,39 +43,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WdnWbuwc8vfqPoCm0apC2jeMil" />
+  <component name="ProjectId" id="1anrDVXE7q7t3baMdAp9keK7ZIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/work/code/ppd/koobsales" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\fandong\code\leetcodepy" />
-      <recent name="$PROJECT_DIR$/window" />
-      <recent name="$PROJECT_DIR$/hot100/listNode" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/dongGui" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/utils" />
-      <recent name="$PROJECT_DIR$/toutiao" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.insertsort">
-    <configuration name="151_reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.199_rightSideView">
+    <configuration name="1248_numberOfSubarrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +64,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastruct/string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twoptr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastruct/string/151_reverseWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twoptr/1248_numberOfSubarrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="289_gameOfLife" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="199_rightSideView" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twoptr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/289_gameOfLife.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twoptr/199_rightSideView.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,29 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_myAtoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcodepy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastruct/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastruct/string/8_myAtoi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="insertsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="insertsort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,42 +122,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movingCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcodepy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movingCount.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.289_gameOfLife" />
-      <item itemvalue="Python.8_myAtoi" />
-      <item itemvalue="Python.movingCount" />
-      <item itemvalue="Python.151_reverseWords" />
-      <item itemvalue="Python.insertsort" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.199_rightSideView" />
+        <item itemvalue="Python.1248_numberOfSubarrays" />
         <item itemvalue="Python.insertsort" />
-        <item itemvalue="Python.151_reverseWords" />
-        <item itemvalue="Python.movingCount" />
-        <item itemvalue="Python.8_myAtoi" />
-        <item itemvalue="Python.289_gameOfLife" />
       </list>
     </recent_temporary>
   </component>
@@ -189,84 +135,65 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c917dd6e-f164-4f5c-8a77-5a68b65fc66e" name="Default" comment="" />
-      <created>1577975494068</created>
+      <changelist id="c5332ffb-e956-4a26-8bd8-b242f32495ce" name="Default Changelist" comment="" />
+      <created>1587382079735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577975494068</updated>
-      <workItem from="1579488374292" duration="15065000" />
-      <workItem from="1579513980827" duration="5750000" />
-      <workItem from="1583722456543" duration="11580000" />
-      <workItem from="1584501342675" duration="2064000" />
-      <workItem from="1584511374525" duration="17000" />
-      <workItem from="1584618573625" duration="4519000" />
-      <workItem from="1584931555193" duration="2646000" />
-      <workItem from="1585028828788" duration="850000" />
-      <workItem from="1585036338763" duration="21000" />
-      <workItem from="1585048780179" duration="7499000" />
-      <workItem from="1585190353466" duration="4479000" />
-      <workItem from="1585225620174" duration="838000" />
-      <workItem from="1585568027953" duration="261000" />
-      <workItem from="1585568643661" duration="945000" />
-      <workItem from="1585738036045" duration="7033000" />
-      <workItem from="1585826543726" duration="5073000" />
-      <workItem from="1586242735052" duration="1798000" />
-      <workItem from="1586347522021" duration="6765000" />
-      <workItem from="1586513875057" duration="2086000" />
-      <workItem from="1586833244748" duration="691000" />
-      <workItem from="1586863514041" duration="1187000" />
-      <workItem from="1586949209508" duration="6177000" />
+      <updated>1587382079735</updated>
+      <workItem from="1587382081013" duration="3192000" />
+      <workItem from="1587466235316" duration="2487000" />
+      <workItem from="1587553769875" duration="1625000" />
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2428" y="211" key="FileChooserDialogImpl" timestamp="1587382185826">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2428" y="211" key="FileChooserDialogImpl/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587382185826" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1587554843386">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843386" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587554843385">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843385" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1587554843384">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843384" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1587554843385">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843385" />
+    <state x="2149" y="89" key="SettingsEditor" timestamp="1587382196442">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2149" y="89" key="SettingsEditor/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587382196442" />
+    <state x="2305" y="196" key="search.everywhere.popup" timestamp="1587553852168">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2305" y="196" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587553852168" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcodepy$movingCount.coverage" NAME="movingCount Coverage Results" MODIFIED="1586349563835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcodepy$151_reverseWords.coverage" NAME="151_reverseWords Coverage Results" MODIFIED="1586515866000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastruct/string" />
-    <SUITE FILE_PATH="coverage/leetcodepy$139_wordBreak.coverage" NAME="139_wordBreak Coverage Results" MODIFIED="1583741931734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$message.coverage" NAME="message Coverage Results" MODIFIED="1585029205792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dongGui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$8_myAtoi.coverage" NAME="8_myAtoi Coverage Results" MODIFIED="1585897921634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastruct/string" />
-    <SUITE FILE_PATH="coverage/leetcodepy$insertsort.coverage" NAME="insertsort Coverage Results" MODIFIED="1586958006112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
-    <SUITE FILE_PATH="coverage/leetcodepy$twonumbersum.coverage" NAME="twonumbersum Coverage Results" MODIFIED="1579500137908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$45_jump.coverage" NAME="45_jump Coverage Results" MODIFIED="1584502788483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
-    <SUITE FILE_PATH="coverage/leetcodepy$0_1beibao.coverage" NAME="0-1beibao Coverage Results" MODIFIED="1584934313280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dongGui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$130_solve.coverage" NAME="130_solve Coverage Results" MODIFIED="1585748668475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcodepy$removeNthFromEnd.coverage" NAME="removeNthFromEnd Coverage Results" MODIFIED="1579591865567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$1111_maxDepthAfterSplit.coverage" NAME="1111_maxDepthAfterSplit Coverage Results" MODIFIED="1585740155396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastruct/stack" />
-    <SUITE FILE_PATH="coverage/leetcodepy$55_canJump.coverage" NAME="55_canJump Coverage Results" MODIFIED="1584501669538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanxin" />
-    <SUITE FILE_PATH="coverage/leetcodepy$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1579501746565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$getLeastNumbers.coverage" NAME="getLeastNumbers Coverage Results" MODIFIED="1584672003682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heap" />
-    <SUITE FILE_PATH="coverage/leetcodepy$joseph.coverage" NAME="joseph Coverage Results" MODIFIED="1585569461894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toutiao" />
-    <SUITE FILE_PATH="coverage/leetcodepy$longestPalindrome.coverage" NAME="longestPalindrome Coverage Results" MODIFIED="1579509917824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1583732703233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100/donggui" />
-    <SUITE FILE_PATH="coverage/leetcodepy$112_hasPathSum.coverage" NAME="112_hasPathSum Coverage Results" MODIFIED="1585052596328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
-    <SUITE FILE_PATH="coverage/leetcodepy$289_gameOfLife.coverage" NAME="289_gameOfLife Coverage Results" MODIFIED="1585827970176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
-    <SUITE FILE_PATH="coverage/leetcodepy$intReverse.coverage" NAME="intReverse Coverage Results" MODIFIED="1579590626552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
-    <SUITE FILE_PATH="coverage/leetcodepy$892_surfaceArea.coverage" NAME="892_surfaceArea Coverage Results" MODIFIED="1585106542450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
-    <SUITE FILE_PATH="coverage/leetcodepy$999_numRookCaptures.coverage" NAME="999_numRookCaptures Coverage Results" MODIFIED="1585205137978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
+    <SUITE FILE_PATH="coverage/leetcodepy$199_rightSideView.coverage" NAME="199_rightSideView Coverage Results" MODIFIED="1587554843374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoptr" />
+    <SUITE FILE_PATH="coverage/leetcodepy$insertsort.coverage" NAME="insertsort Coverage Results" MODIFIED="1587384573357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/leetcodepy$1248_numberOfSubarrays.coverage" NAME="1248_numberOfSubarrays Coverage Results" MODIFIED="1587469902606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoptr" />
   </component>
 </project>
