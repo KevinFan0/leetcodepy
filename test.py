@@ -1,4 +1,7 @@
 # coding:utf-8
+from datetime import datetime
+import time
+
 
 def solve(s):
     left, right = 0, 1
@@ -41,5 +44,9 @@ class Solution:
         return data
 
 
+
 if __name__ == '__main__':
-    print(solve("aaaccd"))
+    # print(solve("aaaccd"))
+    t1 = datetime.now()
+    time.sleep(2)
+    print(type((datetime.now() - t1).microseconds))

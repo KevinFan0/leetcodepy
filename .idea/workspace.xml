@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5332ffb-e956-4a26-8bd8-b242f32495ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/twoptr/1248_numberOfSubarrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twoptr/199_rightSideView.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcodepy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcodepy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/insertsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/insertsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/asyncdb.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Python.199_rightSideView">
+  <component name="RunManager" selected="Python.test">
     <configuration name="1248_numberOfSubarrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +97,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="[76]最小覆盖子串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcodepy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/f0/_60dng8x7kb1rc6gmzxj9yy80000gp/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/f0/_60dng8x7kb1rc6gmzxj9yy80000gp/T/leetcode/editor/cn/[76]最小覆盖子串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="insertsort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +141,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcodepy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.[76]最小覆盖子串" />
+        <item itemvalue="Python.insertsort" />
         <item itemvalue="Python.199_rightSideView" />
         <item itemvalue="Python.1248_numberOfSubarrays" />
-        <item itemvalue="Python.insertsort" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +186,14 @@
       <workItem from="1587382081013" duration="3192000" />
       <workItem from="1587466235316" duration="2487000" />
       <workItem from="1587553769875" duration="1625000" />
+      <workItem from="1587966490647" duration="168000" />
+      <workItem from="1588926827265" duration="2462000" />
+      <workItem from="1589182877139" duration="3858000" />
+      <workItem from="1589200931831" duration="772000" />
+      <workItem from="1589201739502" duration="35000" />
+      <workItem from="1589201782478" duration="147000" />
+      <workItem from="1604039091428" duration="739000" />
+      <workItem from="1604296846173" duration="12000" />
     </task>
     <servers />
   </component>
@@ -162,38 +213,40 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2428" y="211" key="FileChooserDialogImpl" timestamp="1587382185826">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom" timestamp="1604055485907">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="2428" y="211" key="FileChooserDialogImpl/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587382185826" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1587554843386">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039390885" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604055485907" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center" timestamp="1604055485906">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843386" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587554843385">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039390883" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604055485906" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left" timestamp="1604055485906">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843385" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1587554843384">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039390882" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604055485906" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right" timestamp="1604055485907">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843384" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1587554843385">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039390884" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604055485907" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1604039268977">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587554843385" />
-    <state x="2149" y="89" key="SettingsEditor" timestamp="1587382196442">
-      <screen x="1920" y="0" width="1440" height="900" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039268977" />
+    <state x="625" y="241" key="search.everywhere.popup" timestamp="1604039229649">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="2149" y="89" key="SettingsEditor/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587382196442" />
-    <state x="2305" y="196" key="search.everywhere.popup" timestamp="1587553852168">
-      <screen x="1920" y="0" width="1440" height="900" />
-    </state>
-    <state x="2305" y="196" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1587553852168" />
+    <state x="625" y="241" key="search.everywhere.popup/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604039229649" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcodepy$199_rightSideView.coverage" NAME="199_rightSideView Coverage Results" MODIFIED="1587554843374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoptr" />
-    <SUITE FILE_PATH="coverage/leetcodepy$insertsort.coverage" NAME="insertsort Coverage Results" MODIFIED="1587384573357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/leetcodepy$test.coverage" NAME="test Coverage Results" MODIFIED="1604039390872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcodepy$_76_.coverage" NAME="[76]最小覆盖子串 Coverage Results" MODIFIED="1589194770711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/f0/_60dng8x7kb1rc6gmzxj9yy80000gp/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcodepy$insertsort.coverage" NAME="insertsort Coverage Results" MODIFIED="1588928600765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
     <SUITE FILE_PATH="coverage/leetcodepy$1248_numberOfSubarrays.coverage" NAME="1248_numberOfSubarrays Coverage Results" MODIFIED="1587469902606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoptr" />
   </component>
 </project>

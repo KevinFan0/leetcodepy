@@ -91,21 +91,51 @@ def merge(left: list, right: list) -> list:
             j += 1
     result.extend(left[i:])
     result.extend(right[j:])
+    print(result)
     return result
 
 
 def merge_sort(lists: list) -> list:
     if len(lists) <= 1:
         return lists
-    mid = len(lists) / 2
+    mid = int(len(lists) / 2)
     left = merge_sort(lists[:mid])
     right = merge_sort(lists[mid:])
     return merge(left, right)
 
 
 # 归并排序2
-def merge2(arr, lo, mid, hi):
+def merge2(arr, lo, mid, hi, aux):
     i, j = lo, mid+1
+    for k in range(lo, hi+1):
+       aux[k] = arr[k]
+    for k in range(lo, hi+1):
+        if i > mid:
+            j += 1
+            arr[k] = aux[j]
+        elif j > hi:
+            i += 1
+            arr[k] = aux[i]
+        elif aux[j] < aux[i]:
+            j += 1
+            arr[k] = aux[j]
+        else:
+            i += 1
+            arr[k] = aux[i]
+
+
+def mergeSort2(arr):
+    aux = []
+    sort(arr, 0, len(arr) - 1, aux)
+
+
+def sort(arr, lo, hi, aux):
+    if hi <= lo:
+        return
+    mid = int(lo + (hi - lo) / 2)
+    sort(arr, lo, mid, aux)
+    sort(arr, mid+1, hi, aux)
+    merge2(arr, lo, mid, hi, aux)
 
 
 if __name__ == '__main__':
