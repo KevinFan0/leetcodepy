@@ -1,4 +1,5 @@
 # coding:utf-8
+import json
 from datetime import datetime
 import time
 
@@ -44,9 +45,81 @@ class Solution:
         return data
 
 
+class Solution2:
+    def minDepth(self, root: TreeNode) -> int:
+        res = 0
+        if root == None:
+            return res
+        queue = [root]
+        while queue:
+            cnt = len(queue)
+            res += 1
+            while cnt > 0:
+                node = queue.pop(0)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+                if not node.left and not node.right:
+                    return res
+                cnt -= 1
+        return res
+
+
+def stringToTreeNode(input):
+    input = input.strip()
+    input = input[1:-1]
+    if not input:
+        return None
+
+    inputValues = [s.strip() for s in input.split(',')]
+    root = TreeNode(int(inputValues[0]))
+    nodeQueue = [root]
+    front = 0
+    index = 1
+    while index < len(inputValues):
+        node = nodeQueue[front]
+        front = front + 1
+
+        item = inputValues[index]
+        index = index + 1
+        if item != "null":
+            leftNumber = int(item)
+            node.left = TreeNode(leftNumber)
+            nodeQueue.append(node.left)
+
+        if index >= len(inputValues):
+            break
+
+        item = inputValues[index]
+        index = index + 1
+        if item != "null":
+            rightNumber = int(item)
+            node.right = TreeNode(rightNumber)
+            nodeQueue.append(node.right)
+    return root
+
+
+def main():
+    import sys
+    import io
+    def readlines():
+        for line in io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8'):
+            yield line.strip('\n')
+
+    lines = readlines()
+    while True:
+        try:
+            line = next(lines)
+            root = stringToTreeNode(line);
+
+            ret = Solution2().minDepth(root)
+
+            out = str(ret);
+            print(out)
+        except StopIteration:
+            break
+
 
 if __name__ == '__main__':
-    # print(solve("aaaccd"))
-    t1 = datetime.now()
-    time.sleep(2)
-    print(type((datetime.now() - t1).microseconds))
+    main()
